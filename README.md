@@ -66,7 +66,8 @@ It does **not** give a medical diagnosis, does **not** recommend medicines or do
 
 ## Screenshots
 
-Add screenshots of the chat interface, the sidebar, and the human review step here before pushing to GitHub.
+![Uploading image.png…]()
+
 
 ## Project Structure
 
