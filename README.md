@@ -122,6 +122,7 @@ LANGSMITH_TRACING_V2=true
 LANGSMITH_API_KEY=your_real_key_here
 LANGSMITH_PROJECT=healthcare_chatbot
 ```
+`Just a heads up, you can avoid LangSmith, because the setup of LangSmith is different, if you know then please continue the testing.`
 
 `.env` file is not there, so I have used Anthropic if you want to try you have to add your own API Key.
 
