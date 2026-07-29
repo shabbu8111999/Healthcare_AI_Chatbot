@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Healthcare Assistant Chatbot</title>
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>%F0%9F%A9%BA</text></svg>">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:wght@500;600&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/static/css/style.css">
+</head>
+<body>
+  <div class="app-shell">
+
+    <button id="sidebar-toggle" class="sidebar-toggle" aria-label="Open chat list" type="button">&#9776;</button>
+
+    <aside class="sidebar" id="sidebar">
+      <div class="sidebar-top-row">
+        <button id="sidebar-collapse-button" aria-label="Close chat list" type="button">&#10094;</button>
+      </div>
+      <button id="new-chat-button" type="button">
+        <span>+</span> New chat
+      </button>
+      <div id="chat-list"></div>
+    </aside>
+
+    <main class="main-panel">
+      <div class="page">
+
+        <div class="app-header">
+          <div class="app-icon">🩺</div>
+          <div>
+            <h1>Healthcare Assistant</h1>
+            <p>General health information, answered clearly and responsibly.</p>
+          </div>
+        </div>
+
+        <div class="disclaimer">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <circle cx="12" cy="12" r="10"></circle>
+            <line x1="12" y1="8" x2="12" y2="13"></line>
+            <line x1="12" y1="16" x2="12.01" y2="16"></line>
+          </svg>
+          <span>__DISCLAIMER__</span>
+        </div>
+
+        <div class="chat-card">
+          <div id="chat"></div>
+          <div id="review-area"></div>
+          <div id="download-area"></div>
+          <div id="attachment-chip-area"></div>
+          <div id="input-row">
+            <input type="file" id="file-input" accept=".pdf,.txt" hidden>
+            <button id="attach-button" type="button" aria-label="Attach a file">+</button>
+            <input id="message-input" type="text" placeholder="Ask a general health question" autocomplete="off" />
+            <button id="mic-button" type="button" aria-label="Speak your question"></button>
+            <button id="send-button" type="button">Send</button>
+          </div>
+        </div>
+
+      </div>
+    </main>
+
+  </div>
+
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  <script src="/static/js/app.js"></script>
+</body>
+</html>

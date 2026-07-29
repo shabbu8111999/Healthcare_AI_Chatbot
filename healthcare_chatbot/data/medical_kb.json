@@ -1,0 +1,116 @@
+[
+  {
+    "id": "sym_001",
+    "topic": "Common Symptoms: Fever",
+    "source": "General Symptom Guidance",
+    "content": "Fever is a temporary rise in body temperature, often a sign the body is fighting an infection. Mild fever can usually be managed with rest, fluids, and monitoring. A fever above 39.4 degrees Celsius, one that lasts more than three days, or one paired with severe symptoms like a stiff neck, confusion, or difficulty breathing should be checked by a doctor promptly."
+  },
+  {
+    "id": "sym_002",
+    "topic": "Common Symptoms: Headache",
+    "source": "General Symptom Guidance",
+    "content": "Most headaches are caused by stress, dehydration, poor sleep, or eye strain and improve with rest, water, and over the counter pain relief. A sudden severe headache, one following a head injury, or one with vision changes, weakness, or slurred speech needs urgent medical attention."
+  },
+  {
+    "id": "sym_003",
+    "topic": "Common Symptoms: Cough and Cold",
+    "source": "General Symptom Guidance",
+    "content": "A cough with a runny nose and mild sore throat is usually a common cold and typically resolves within seven to ten days with rest and fluids. A cough lasting more than three weeks, coughing up blood, or a cough with chest pain and shortness of breath should be evaluated by a healthcare provider."
+  },
+  {
+    "id": "dis_001",
+    "topic": "General Diseases: Type 2 Diabetes",
+    "source": "General Disease Overview",
+    "content": "Type 2 diabetes occurs when the body does not use insulin properly, leading to high blood sugar over time. Common signs include increased thirst, frequent urination, fatigue, and slow healing wounds. Management usually involves diet changes, regular activity, monitoring blood sugar, and medication as prescribed by a doctor."
+  },
+  {
+    "id": "dis_002",
+    "topic": "General Diseases: Hypertension",
+    "source": "General Disease Overview",
+    "content": "Hypertension, or high blood pressure, often has no clear symptoms but raises the risk of heart disease and stroke over time. Lifestyle steps that help include reducing salt intake, staying active, managing stress, and limiting alcohol. Regular blood pressure checks are important since it is often silent."
+  },
+  {
+    "id": "dis_003",
+    "topic": "General Diseases: Common Cold vs Flu",
+    "source": "General Disease Overview",
+    "content": "The common cold usually develops gradually with mild symptoms like a runny nose and sneezing, while the flu tends to start suddenly with high fever, body aches, and fatigue. Flu symptoms are generally more intense and can lead to complications, especially in older adults, young children, and people with weak immunity."
+  },
+  {
+    "id": "life_001",
+    "topic": "Healthy Lifestyle: Sleep",
+    "source": "Lifestyle Guidance",
+    "content": "Adults generally benefit from seven to nine hours of sleep each night. Good sleep habits include a consistent bedtime, limiting screens before bed, keeping the room dark and cool, and avoiding caffeine late in the day. Poor sleep is linked to weakened immunity, mood changes, and higher risk of chronic disease."
+  },
+  {
+    "id": "life_002",
+    "topic": "Healthy Lifestyle: Physical Activity",
+    "source": "Lifestyle Guidance",
+    "content": "Regular movement such as brisk walking, cycling, or swimming for about one hundred fifty minutes a week supports heart health, weight management, and mental wellbeing. Even short ten minute activity breaks throughout the day add up and are especially helpful for people with desk jobs."
+  },
+  {
+    "id": "life_003",
+    "topic": "Healthy Lifestyle: Stress Management",
+    "source": "Lifestyle Guidance",
+    "content": "Chronic stress can affect sleep, digestion, and immunity. Helpful habits include deep breathing exercises, short walks, talking to someone you trust, setting realistic daily goals, and taking regular breaks from work. Persistent stress that affects daily functioning is worth discussing with a professional."
+  },
+  {
+    "id": "nut_001",
+    "topic": "Nutrition and Diet: Balanced Plate",
+    "source": "Nutrition Guidance",
+    "content": "A balanced meal generally includes vegetables and fruits, whole grains, a source of protein, and healthy fats in reasonable portions. Filling half the plate with vegetables and fruit is a simple way to improve overall diet quality without complicated tracking."
+  },
+  {
+    "id": "nut_002",
+    "topic": "Nutrition and Diet: Hydration",
+    "source": "Nutrition Guidance",
+    "content": "Most adults need roughly two to three liters of fluid a day, mainly from water, though needs rise with heat, exercise, or illness. Signs of mild dehydration include dark urine, dry mouth, and fatigue. Water is generally the best everyday choice over sugary drinks."
+  },
+  {
+    "id": "nut_003",
+    "topic": "Nutrition and Diet: Reducing Sugar and Salt",
+    "source": "Nutrition Guidance",
+    "content": "Excess added sugar and salt are linked to higher risk of obesity, high blood pressure, and heart disease. Simple steps include checking food labels, cooking at home more often, choosing fresh over processed foods, and flavoring meals with herbs and spices instead of extra salt."
+  },
+  {
+    "id": "prev_001",
+    "topic": "Preventive Healthcare: Regular Checkups",
+    "source": "Preventive Care Guidance",
+    "content": "Routine health checkups help catch issues like high blood pressure, high cholesterol, or early stage disease before symptoms appear. Recommended screening frequency depends on age, family history, and risk factors, so a primary care doctor can suggest a personalized schedule."
+  },
+  {
+    "id": "prev_002",
+    "topic": "Preventive Healthcare: Vaccination",
+    "source": "Preventive Care Guidance",
+    "content": "Vaccines help the immune system recognize and fight specific diseases before a serious infection occurs. Staying current with recommended vaccines, including seasonal ones like the flu shot, lowers the risk of illness for both the individual and the wider community."
+  },
+  {
+    "id": "prev_003",
+    "topic": "Preventive Healthcare: Hand Hygiene",
+    "source": "Preventive Care Guidance",
+    "content": "Washing hands with soap for at least twenty seconds, especially before eating and after using the restroom, is one of the simplest and most effective ways to prevent the spread of infections. Alcohol based hand sanitizer is a reasonable alternative when soap and water are not available."
+  },
+  {
+    "id": "first_001",
+    "topic": "First Aid: Minor Cuts and Scrapes",
+    "source": "First Aid Basics",
+    "content": "For a minor cut, rinse the wound with clean water, gently clean around it, apply gentle pressure with a clean cloth to stop bleeding, then cover with a sterile bandage. Seek medical care if bleeding does not stop after ten minutes of pressure, or if the wound is deep or dirty."
+  },
+  {
+    "id": "first_002",
+    "topic": "First Aid: Burns",
+    "source": "First Aid Basics",
+    "content": "For a minor burn, cool the area under cool running water for about ten to twenty minutes, avoid ice directly on the skin, and cover loosely with a clean non stick dressing. Do not apply butter or toothpaste. Large burns, burns on the face or hands, or burns that blister significantly need medical attention."
+  },
+  {
+    "id": "first_003",
+    "topic": "First Aid: Choking",
+    "source": "First Aid Basics",
+    "content": "If someone is choking and cannot cough, speak, or breathe, encourage them to lean forward and give firm back blows between the shoulder blades, followed by abdominal thrusts if trained to do so. Call emergency services immediately if the airway does not clear."
+  },
+  {
+    "id": "first_004",
+    "topic": "First Aid: Sprains",
+    "source": "First Aid Basics",
+    "content": "For a mild sprain, the general approach is rest, ice for about fifteen to twenty minutes at a time, gentle compression with a bandage, and elevating the limb above heart level when possible. Persistent swelling, inability to bear weight, or severe pain should be checked by a doctor."
+  }
+]
