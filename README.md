@@ -64,10 +64,6 @@ It does **not** give a medical diagnosis, does **not** recommend medicines or do
 | Frontend | Plain HTML, CSS, and JavaScript, no framework |
 | Package manager | uv |
 
-## Screenshots
-
-![Uploading image.png…]()
-
 
 ## Project Structure
 
@@ -108,12 +104,12 @@ healthcare_chatbot/
 
 2. Create the virtual environment:
 ```
-uv venv
+uv init .
 ```
 
 3. Install everything the project needs:
 ```
-uv pip install -r requirements.txt
+uv add -r requirements.txt
 ```
 
 ## Environment Variables
@@ -127,7 +123,7 @@ LANGSMITH_API_KEY=your_real_key_here
 LANGSMITH_PROJECT=healthcare_chatbot
 ```
 
-Never commit a filled in `.env` file to GitHub, keep it out of version control.
+`.env` file is not there, so I have used Anthropic if you want to try you have to add your own API Key.
 
 ## Running the App
 
